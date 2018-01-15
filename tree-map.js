@@ -38,10 +38,11 @@ MDN
 
 //create a higher order function
 //function should have map function as only argument
-//should return a new tree with different values 
+//should return a new tree with different values
 
 
 function treeMap = new Tree(){
+  
 
 
 }
