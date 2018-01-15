@@ -6,7 +6,7 @@ Available resources for this prompt
 MDN
 */
 
-/**
+
   *
   * Implement a `map` method on this Tree class, using pseudoclassical instantiation.
   *
@@ -35,3 +35,10 @@ MDN
   *  newTree.children[1].children[1].value // 14
   *  root1.value // still 1
   */
+
+//create a higher order function
+//function should have map function as only argument
+function treeMap = new Tree(){
+
+
+}
